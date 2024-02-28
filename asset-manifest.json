@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/minipro/static/js/main.72354a55.js",
+    "main.js": "/minipro/static/js/main.1cb08990.js",
     "index.html": "/minipro/index.html",
-    "main.72354a55.js.map": "/minipro/static/js/main.72354a55.js.map"
+    "main.1cb08990.js.map": "/minipro/static/js/main.1cb08990.js.map"
   },
   "entrypoints": [
-    "static/js/main.72354a55.js"
+    "static/js/main.1cb08990.js"
   ]
 }
